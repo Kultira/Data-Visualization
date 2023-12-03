@@ -1,6 +1,6 @@
-# Data-Visualization of Job
+# Data-Visualization
 
-# Data-Visualization of Job
+# Data-Visualization
 
 This project is analysis of data careers about the salary, ratings of companies people are interested in joining, number of people employed in a data job that a company require and Skills required by the company.
 
